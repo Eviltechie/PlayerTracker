@@ -1,0 +1,6 @@
+name: PlayerTracker
+version: '${project.version}'
+author: Eviltechie
+website: http://joe.to
+main: to.joe.playertracker.PlayerTracker
+depend: [VanishNoPacket]
